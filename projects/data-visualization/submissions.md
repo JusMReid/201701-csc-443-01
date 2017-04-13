@@ -5,7 +5,6 @@ This document contains a list of student website submissions. The list should be
 GitHub Username | Repository Link | Project Link
 --- | --- | ---
 username1 | https://github.com/data-creative/us-state-legislature-compositions | http://data-creative.info/us-state-legislature-compositions/
-<<<<<<< HEAD
 jessieMB | https://github.com/JessieMB/data-visualization | jessiemb.github.io/data-visualization/index.html
 jestores7 | https://github.com/jestores7/dataVisProject | https://jestores7.github.io/dataVisProject/
 jlragr | https://github.com/jlragr/Data-Visualization | https://jlragr.github.io/Data-Visualization/
@@ -25,6 +24,4 @@ s2t2 | https://github.com/data-creative/us-state-legislature-compositions | http
 SahilMak | https://github.com/SahilMak/data-viz | http://www.sahilmak.tech/data-viz/
 ThisIsSovereign | https://github.com/ThisIsSovereign/datavisualization | https://thisissovereign.github.io/datavisualization/
 Vicsotojr | https://github.com/VicSotoJr/DataViz | https://vicsotojr.github.io/DataViz/
-=======
->>>>>>> parent of 46223b5... Update submissions.md
 etc. | ... | ...
